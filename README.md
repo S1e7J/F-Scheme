@@ -2,8 +2,6 @@
 
 Implementation of a LISP interpreter written in Haskell.
 
-Based on the tutorial [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours).
-
 ## Executing
 
 Clone the repository, traverse to the root folder and once in there type `cabal run f-scheme`.
